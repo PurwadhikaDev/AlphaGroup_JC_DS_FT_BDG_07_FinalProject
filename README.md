@@ -1,7 +1,5 @@
 # AlphaGroup_JC_DS_FT_BDG_07_FinalProject
 
-# Proyek Analisis & Prediksi Customer Churn Jaya Telecom
-
 Selamat datang di repositori proyek analisis *customer churn* Jaya Telecom. Proyek ini bukan sekadar membangun model *machine learning* biasa, tetapi sebuah studi mendalam untuk menemukan *akar masalah* dari *churn* dan memberikan rekomendasi bisnis yang spesifik dan dapat ditindaklanjuti.
 
 **Dashboard Interaktif Final dari proyek ini dapat diakses di Tableau Public:**
